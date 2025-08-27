@@ -1,0 +1,1 @@
+# CloudOps + IT Ops Roadmap (React + Vite)\n\n## Local\n```bash\nnpm install\nnpm run dev\n```\n\n## Build\n```bash\nnpm run build\n# Output: dist/\n```\n\n## Netlify (GitHub → Netlify)\n- Build command: `npm run build`\n- Publish directory: `dist`\n
